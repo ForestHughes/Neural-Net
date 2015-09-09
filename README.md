@@ -1,3 +1,3 @@
 # Nueral-Net
-Neural Net project for CS 189
+Neural Net project for Machine Learning (CS 189)
 Single hidden layer neural net with options for different activation functions and loss functions. 
